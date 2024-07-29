@@ -1,0 +1,6 @@
+/.venv
+/ref_notebooks
+/.ipynb_checkpoints
+ambev.db
+*.parquet
+*.csv
